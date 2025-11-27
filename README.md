@@ -267,7 +267,7 @@ python examples/visualization_examples.py
 
 ## 👥 Авторы
 
-- Ваше имя - [@stanisked](https://github.com/stanisked)
+- Ваше имя - Stanis Ked
 
 ## 🙏 Благодарности
 
@@ -278,8 +278,8 @@ python examples/visualization_examples.py
 ## 📧 Контакты
 
 - Email: intelenge@gmail.com
-- GitHub: [@stanisked](https://github.com/stanisked/waiter-bot)
-- LinkedIn: [Stas Ked](https://www.linkedin.com/in/kestabor)
+- GitHub: https://github.com/stanisked/waiter-bot
+- LinkedIn: https://www.linkedin.com/in/kestabor
 
 ---
 
